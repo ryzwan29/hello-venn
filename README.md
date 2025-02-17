@@ -45,7 +45,7 @@ Follow these steps to get started:
 1. **Clone the Repo** 🖥️  
 
    ```bash
-   git clone https://github.com/ironblocks/hello-venn.git
+   git clone https://github.com/ryzwan29/hello-venn.git
    cd hello-venn
    ```
 
